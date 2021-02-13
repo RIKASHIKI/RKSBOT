@@ -1,6 +1,6 @@
-### Moshimoshi~ I'm Nazwa<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
+### HELLO ME~ RIKASHIKI<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <p align="center">
-<a href="https://github.com/NazwaS"><img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/Nazwa.jpg"></a>
+<a href="https://github.com/RIKASHIKI"><img src="https://raw.githubusercontent.com/RIKASHIKI/RIKASHIKI/main/img/RIKASHIKI.jpg"></a>
 </p>
 <br>
 
@@ -10,7 +10,7 @@
 <a href="#"><img title="termux-whatsapp-bot" src="https://img.shields.io/badge/-TERMUX--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/NazwaS"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NAZWAS-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/RIKASHIKI"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RIKASHIKI-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
     <a href="https://github.com/NazwaS/followers"><img title="Followers" src="https://img.shields.io/github/followers/NazwaS?style=flat-square"></a>
