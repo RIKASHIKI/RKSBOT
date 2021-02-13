@@ -1,6 +1,6 @@
 ### HELLO ME~ RIKASHIKI<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <p align="center">
-<a href="https://github.com/RIKASHIKI"><img src="https://raw.githubusercontent.com/RIKASHIKI/RIKASHIKI/main/img/RIKASHIKI.jpg"></a>
+<a href="https://github.com/RIKASHIKI"><img title="RIKASHIKI" src="https://avatars.githubusercontent.com/u/72728486?s=400&u=6dd38cb0148eba68e22e9260adbeec1e512b7c8f&v=4 width="128"></a>
 </p>
 <br>
 
