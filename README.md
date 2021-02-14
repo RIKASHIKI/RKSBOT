@@ -87,12 +87,12 @@
 - Change ```botName``` with your Bot Name
 Example:
 ```bash
-"botName": "Isemori Bot",
+"botName": "RKS BOT",
 ```
 - Change ```ownerName``` with your Name
 Example:
 ```bash
-"ownerName": "Nazwa",
+"ownerName": "RIKASHIKI",
 ```
 - Change ```BarBarKey``` with your mhankbarbar ApiKey
 Example:
